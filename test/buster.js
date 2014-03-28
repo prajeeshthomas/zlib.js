@@ -31,7 +31,7 @@ config["codepath"] = mixin(
     ],
     libs: [
       "closure-primitives/base.js",
-      "deps.js",
+      "closure-primitives/deps.js",
       "test/plain.js"
     ],
     tests: [
